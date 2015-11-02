@@ -5,8 +5,8 @@ Code implements basic ice broadcast protocol and is tested with <a href="https:/
 Code is still preview and will be packaged as library.
 
 ###Native Libraries###
-Although native libraries are included in jniLibs folder, developers are encourages to build from source files.
-Enter jni folder and call:<br><br>
+Although native libraries are included in jniLibs folder, developers are encourages to build from source files. Easy way to generate native libs<br>
+* Enter jni folder on command line and call<br><br>
 <code>ndk-build</code>
 
 This will generate also native libs.
