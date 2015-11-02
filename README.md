@@ -1,6 +1,6 @@
 ##Android Icecast/Shoutcast broadcast##
 Captures realtime audio from microphone, encodes and stream to ice server. 
-Code implements basic ice broadcast protocol and is moslty tested with <a href="https://github.com/StreamMachine/StreamMachine">StreamMachine</a>, as ice input source.
+Code implements basic ice protocol and is moslty tested with <a href="https://github.com/StreamMachine/StreamMachine">StreamMachine</a>, as ice input source.
 Repo is still preview and will be packaged as library.
 
 ###Native Libraries###
