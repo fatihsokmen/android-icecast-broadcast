@@ -70,6 +70,9 @@ public class BroadcastFragment extends Fragment {
 
         ButterKnife.inject(this, view);
 
+        /**
+         * This is short-hand setter and handler should be static class
+         */
         encoder.setHandle(new Handler() {
             @Override
             public void handleMessage(Message msg) {

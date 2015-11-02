@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btn_background">#ECF0F1</color>
+    <color name="btn_pressed_background">#DBE0E0</color>
+    <color name="app_red">#E03F52</color>
+    <color name="app_red_light">#e4ff3559</color>
+    <color name="app_red_dark">#ffd23051</color>
+    <color name="app_blue">#057DFB</color>
+    <color name="app_polish_blue">#42B1EA</color>
+    <color name="dark_gray">#555</color>
+</resources>
