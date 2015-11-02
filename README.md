@@ -12,6 +12,6 @@ Enter jni folder and call:<br><br>
 This will generate also native libs.
 
 ###Formats###
-Mp3 is the only format is currently supported but vorbiss ogg will be added as an alternative container/encoder.
+Mp3 is the only format that is currently supported but vorbiss ogg will be added as an alternative container/encoder. Vorbis and ogg native libraries included and working without limitation.
 
 
