@@ -1,5 +1,5 @@
 ##Android Icecast/Shoutcast Broadcast##
-This project aims to implement an icecast source client that captures realtime audio from microphone, encodes and stream to ice server. 
+This project aims to implement an icecast source client that captures realtime audio from microphone, encodes and stream to iceserver. 
 Code implements basic ice protocol and is mostly tested with <a href="https://github.com/StreamMachine/StreamMachine">StreamMachine</a>, for ice input source.
 Repo is still preview and will be packaged as library.
 
@@ -10,7 +10,7 @@ Although native libraries are included in jniLibs folder, developers are encoura
 
 
 ###Formats###
-Mp3 is the only format that is currently supported but vorbiss ogg will be added as an alternative container/encoder. Vorbis and ogg native libraries are also included and working without limitation.
+Mp3 is the only encoder format that is currently supported but vorbiss ogg will be added too. Vorbis and ogg native libraries are included in source code and working without limitation.
 
 ###Notice###
 Please update upstream configuration in <code>BroadcastFragment</code> regarding your server conf.
