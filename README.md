@@ -1,5 +1,5 @@
 ##Android Icecast/Shoutcast Broadcast##
-This project aims to implement an icecast source client that captures realtime audio from microphone, encodes and stream to iceserver. 
+This project aims to implement an icecast source client that captures realtime audio from microphone, encodes and stream (mp3) to iceserver. 
 Code implements basic ice protocol and is mostly tested with <a href="https://github.com/StreamMachine/StreamMachine">StreamMachine</a>, for ice input source.
 Repo is still preview and will be packaged as library.
 
