@@ -5,7 +5,7 @@ Repo is still preview and will be packaged as library.
 
 ###Native Libraries###
 Although native libraries are included under jniLibs folder, developers are encouraged to build from source. <br>
-* Enter jni folder on command line and call. Note that ndk-build should be on your path or print full path of binary<br><br>
+* On command line; enter jni folder  line and type. (Note that ndk-build should be on your path or print full path of binary)<br><br>
 <code>ndk-build</code>
 
 
