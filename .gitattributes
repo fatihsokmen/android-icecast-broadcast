@@ -1,2 +1,4 @@
 app/* linguist-vendored
 jni/* linguist-vendored=false
+*.c linguist-language=Java
+
