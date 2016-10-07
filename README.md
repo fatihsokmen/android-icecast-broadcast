@@ -1,7 +1,7 @@
 ##Android Icecast/Shoutcast Broadcast##
 This project aims to implement an icecast source client that captures realtime audio from microphone, encodes and streams (mp3) to iceserver. 
 
-Repo is still preview and will be packaged as library.
+Repo is still preview and will be packaged as external dependency.
 
 ###Native Libraries###
 Although native libraries are included under jniLibs folder, developers are encouraged to build from source. <br>
