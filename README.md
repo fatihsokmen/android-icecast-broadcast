@@ -23,5 +23,6 @@ Code is easy to understand and implementation is straightforward, but if you hav
 - <a href="http://icecast.org/">IceCast Server</a>
 
 
-
-
+###Licence###
+- LAME source code licensed under the LGPL.
+- This repo uses code from <a href="https://github.com/yhirano/SimpleLameLibForAndroid">this repo</a>
