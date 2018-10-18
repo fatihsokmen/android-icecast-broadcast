@@ -16,9 +16,6 @@ Mp3 is the only encoder format that is currently supported but vorbiss ogg will 
 ### Notice
 Please update upstream configuration in <code>BroadcastFragment</code> regarding your server conf.
 
-### Help
-Code is easy to understand and implementation is straightforward, but if you have additional questions, write me: fatih dot sokmen at gmail dot com 
-
 ### Testing Environments that work fine
 - <a href="https://github.com/StreamMachine/StreamMachine">StreamMachine</a>
 - <a href="http://icecast.org/">IceCast Server</a>
