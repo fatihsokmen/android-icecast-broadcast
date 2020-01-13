@@ -22,5 +22,6 @@ Please update upstream configuration in <code>BroadcastFragment</code> regarding
 
 
 ### Licence
-- LAME source code licensed under the LGPL.
+- LAME encoder is licensed under the LGPL.
+- libshout is licensed under the LGPL v2.
 - This repo uses code from <a href="https://github.com/yhirano/SimpleLameLibForAndroid">this repo</a>
